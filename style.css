@@ -1,0 +1,23 @@
+body {
+  text-align: center;
+  background: linear-gradient(to top, #84fab0, #8fd3f4);
+  font-family: sans-serif;
+}
+
+h1 {
+  color: #ffffff;
+  margin-top: 20px;
+}
+
+#gameCanvas {
+  background-color: #222;
+  border: 2px solid #fff;
+  display: block;
+  margin: auto;
+}
+
+#scoreBoard {
+  color: #fff;
+  font-size: 24px;
+  margin-top: 10px;
+}
